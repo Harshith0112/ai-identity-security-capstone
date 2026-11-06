@@ -1,0 +1,6 @@
+Attack Category,Total Attempts,Successful Attempts,Failed Attempts,Success Rate (%)
+Indirect Prompt Injection (LLM01),3,2,1,66.67
+Agent Identity Spoofing (LLM09),1,1,0,100.00
+System Prompt Extraction (LLM07),5,5,0,100.00
+User to Admin Role Escalation,1,1,0,100.00
+RAG Poisoning and MCP Abuse,1,1,0,100.00
