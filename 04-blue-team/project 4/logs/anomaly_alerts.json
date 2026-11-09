@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2026-11-09T15:08:10.365188+00:00",
+        "event_type": "API_CALL_VOLUME_SPIKE",
+        "description": "More than 20 API requests in 60 seconds: 21"
+    },
+    {
+        "timestamp": "2026-11-09T15:08:10.365188+00:00",
+        "event_type": "REPEATED_AGENT_ID",
+        "description": "Agent ID ai-agent-001 used by multiple clients: ['client-A', 'client-B']"
+    },
+    {
+        "timestamp": "2026-11-09T15:08:10.365188+00:00",
+        "event_type": "EXPIRED_TOKEN_REUSE",
+        "description": "Expired token reused: old-token"
+    }
+]
