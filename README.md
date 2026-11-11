@@ -91,7 +91,7 @@ It emphasizes least-privilege access, credential protection, secure authenticati
 
 ## Author
 
-**Harshith D.**
+**Harshith Dindukurthi.**
 
 AI Identity Security Capstone Project
 
